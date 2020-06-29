@@ -370,7 +370,7 @@ th, td {
         margin-bottom: 35px;
     }
     caption:after {
-        content: "Премера сезона состоялась 20 декабря 2019 года";
+        content: "Премьера сезона состоялась 20 декабря 2019 года.";
         position: absolute;
         bottom: -50%;
         left: 0;
